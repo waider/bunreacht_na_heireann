@@ -419,7 +419,8 @@ Article 34
    2. The president of the Supreme Court shall be called the Chief Justice.
    3. The Supreme Court shall, with such exceptions and subject to such regulations as may be prescribed by law, have appellate jurisdiction from all decisions of the High Court, and shall also have appellate jurisdiction from such decisions of other courts as may be prescribed by law.
    4. No law shall be enacted excepting from the appellate jurisdiction of the Supreme Court cases which involve questions as to the validity of any law having regard to the provisions of this Constitution.
-   5. The decision of the Supreme Court shall in all cases be final and conclusive.
+   5. The decision of the Supreme Court on a question as to the validity of a law having regard to the provisions of this Constitution shall be pronounced by such one of the judges of that Court as that Court shall direct, and no other opinion on such question, whether assenting or dissenting, shall be pronounced, nor shall the existence of any such other opinion be disclosed.
+   6. The decision of the Supreme Court shall in all cases be final and conclusive.
 5. 1. Every person appointed a judge under this Constitution shall make and subscribe the following declaration:
       "In the presence of Almighty God I, , do solemnly and sincerely promise and declare that I will duly and faithfully and to the best of my knowledge and power execute the office of Chief Justice (or as the case may be) without fear or favour, affection or ill-will towards any man, and that I will uphold the Constitution and the laws. May God direct and sustain me."
    2. This declaration shall be made and subscribed by the Chief Justice in the presence of the President, and by each of the other judges of the Supreme Court, the judges of the High Court and the judges of every other Court in the presence of the Chief Justice or the senior available judge of the Supreme Court in open court.
