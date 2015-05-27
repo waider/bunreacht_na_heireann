@@ -270,8 +270,8 @@ Signing and Promulgation of Laws
 Article 25
 
 1. As soon as any Bill, other than a Bill expressed to be a Bill containing a proposal for the amendment of this Constitution, shall have been passed or deemed to have been passed by both Houses of the Oireachtas, the Taoiseach shall present it to the President for his signature and for promulgation by him as a law in accordance with the provisions of this Article.
-2. 1. Save as otherwise provided by this Constitution, every Bill so presented to the President for his signature and for promulgation by him as a law shall be signed by the President not earlier than five and not later than seven days after the date on which the Bill shall have been presented to him.
-   2. At the request of the Government, with the prior concurrence of Seanad Éireann, the President may sign any Bill the subject of such request on a date which is earlier than five days after such date as aforesaid.
+2. 1. Save as otherwise provided by this Constitution, every Bill so presented to the President for his signature and for promulgation by him as a law shall be signed by the President not earlier than the fifth and not later than the seventh day after the date on which the Bill shall have been presented to him.
+   2. At the request of the Government, with the prior concurrence of Seanad Éireann, the President may sign any Bill the subject of such request on a date which is earlier than the fifth day after such date as aforesaid.
 3. Every Bill the time for the consideration of which by Seanad Éireann shall have been abridged under Article 24 of this Constitution shall be signed by the President on the day on which such Bill is presented to him for signature and promulgation as a law.
 4. 1. Every Bill signed by the President under this Constitution shall become and be law as on and from the day on which the Bill shall have been so signed.
    2. Every Bill signed by the President shall come into operation on the day on which it is so signed unless the contrary intention appears.
