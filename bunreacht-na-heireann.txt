@@ -273,11 +273,12 @@ Article 25
 2. 1. Save as otherwise provided by this Constitution, every Bill so presented to the President for his signature and for promulgation by him as a law shall be signed by the President not earlier than the fifth and not later than the seventh day after the date on which the Bill shall have been presented to him.
    2. At the request of the Government, with the prior concurrence of Seanad Éireann, the President may sign any Bill the subject of such request on a date which is earlier than the fifth day after such date as aforesaid.
 3. Every Bill the time for the consideration of which by Seanad Éireann shall have been abridged under Article 24 of this Constitution shall be signed by the President on the day on which such Bill is presented to him for signature and promulgation as a law.
-4. 1. Every Bill signed by the President under this Constitution shall become and be law as on and from the day on which the Bill shall have been so signed.
-   2. Every Bill signed by the President shall come into operation on the day on which it is so signed unless the contrary intention appears.
-   3. Every Bill so signed shall be promulgated by the President as a law by the publication by his direction of a notice in the Iris Oifigiúil stating that such Bill has become law.
-   4. As soon as may be after the President has signed any Bill and promulgated it as a law, the signed text shall be enrolled for record in the office of the Registrar of the Supreme Court and such signed text shall be conclusive evidence as to the provisions of such law.
-   5. An official translation of every law enacted by the Oireachtas in the Irish language shall be issued in the English language and an official translation of every law enacted by the Oireachtas in the English language shall be issued in the Irish language.
+4. 1. Every Bill shall become and be law as on and from the day on which it is signed by the President under this Constitution, and shall, unless the contrary intention appears, come into operation on that day.
+   2. Every Bill signed by the President under this Constitution shall be promulgated by him as a law by the publication by his direction of a notice in the Iris Oifigiúil stating that the Bill has become law.
+   3.  Every Bill shall be signed by the President in the text in which it was passed or deemed to have been passed by both Houses of the Oireachtas, and if a Bill is so passed or deemed to have been passed in both the official languages, the President shall sign the text of the Bill in each of those languages.
+   4. Where the President signs the text of a Bill in one only of the official languages, an official translation shall be issued in the other official language.
+   5. As soon as may be after the signature and promulgation of a Bill as a law, the text of such law which was signed by the President or, where the President has signed the text of such law in each of the official languages, both the signed texts shall be enrolled for record in the office of the Registrar of the Supreme Court, and the text, or both the texts, so enrolled shall be conclusive evidence of the provisions of such law.
+   6. In case of conflict between the texts of a law enrolled under this section in both the official languages, the text in the national language shall prevail.
 
 Reference of Bills to the Supreme Court
 
